@@ -1,0 +1,5 @@
+127.0.0.1 - - [19/Jun/2012:09:17:27 +0100] "GET /Yyb.gif HTTP/1.1" 499 0 "http://domain.com/htm_data/7/1206/758536.html" "Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)"
+127.0.0.1 - - [19/Jun/2012:09:17:31 +0100] "GET /Zyb.gif HTTP/1.1" 200 44822 "http://domain.com/htm_data/7/1206/758536.html" "Mozilla/5.0 (Windows NT 5.1) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.162 Safari/535.19"
+127.0.0.1 - - [19/Jun/2012:09:17:31 +0100] "GET /Yyb.gif HTTP/1.1" 200 44810 "http://domain.com/htm_data/7/1206/758536.html" "Mozilla/5.0 (Windows NT 5.1) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.162 Safari/535.19"
+127.0.0.1 - - [19/Jun/2012:09:17:34 +0100] "GET /azb.gif HTTP/1.1" 200 285336 "http://domain.com/?q=node&page=12" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.56 Safari/536.5"
+127.0.0.1 - - [19/Jun/2012:09:17:34 +0100] "GET /Zyb.gif HTTP/1.1" 200 46173 "http://domain.com/?q=node&page=12" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.56 Safari/536.5"
